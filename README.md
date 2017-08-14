@@ -7,12 +7,12 @@ this sample is under contruction - please check back when there is more to read
 Include an introductory description of your project here and other information as needed.
 
 ## License
-<clear statement as to the outbound license that applies to your project>
+{clear statement as to the outbound license that applies to your project. You may also link to the LICENSE file. It is not advisable to provide an interpretion of the license or otherwise try to explain it. }
 
 This project is licensed under the MIT License (MIT).
 
 ## Contributing
-<clear statement as to the inbound license that applies to any contributions to your project and any other information relevant to contributing>
+{clear statement as to the inbound license that applies to any contributions to your project and any other information relevant to contributing}
 
 Contributions to this project are accepted under the MIT License (MIT). 
 
